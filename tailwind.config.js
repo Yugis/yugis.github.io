@@ -5,6 +5,9 @@ module.exports = {
     	padding: '2rem'
     }
   },
+  future: {
+    removeDeprecatedGapUtilities: true,
+  },
   variants: {},
   plugins: [],
   important: true,
